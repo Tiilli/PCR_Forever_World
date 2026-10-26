@@ -71,6 +71,10 @@ Plus d'infos ici : https://prismlauncher.org/wiki/getting-started/installing-jav
 ### Téléchargement
 Téléchargez la dernière version du modpack ici : [Releases](https://codeberg.org/Tilli/PCR_Forever_World/releases)
 
+![alt text](./readme_images/codeberg_dl.png)
+
+Téléchargez également les LODs de Distant Horizon ici : [LODs DH](https://drive.proton.me/urls/W5QDVPXA50#SFdH4ntzNjm1)
+
 ### Importer le modpack dans Prism
 Ouvrez Prism Launcher, puis cliquez sur "Add Instance"
 
@@ -105,13 +109,9 @@ Si ce n'est pas le cas, contactez Tilli.
 
 ![alt text](./readme_images/prism_edit_rp.png)
 
-Si ce n'est pas le cas, contactez Tilli.
-
 **Vérifiez que vous avez bien ces shaders là**
 
 ![alt text](./readme_images/prism_edit_shaders.png)
-
-Si ce n'est pas le cas, contactez Tilli.
 
 **Vérifiez les paramètres Java**
 
@@ -119,6 +119,25 @@ Si ce n'est pas le cas, contactez Tilli.
 
 - Pour la mémoire, le maximum memory usage recommandé est **8192 MiB**, mais vous pouvez essayer d'allouer plus ou moins en fonction de votre PC
 - Pour les Java Arguments, si vous n'avez pas d'argument listé, copiez/collez cela : ```-XX:+UseZGC``` (important pour Distant Horizon)
+
+### Ajouter manuellement les LODs de Distant Horizon
+Comme les LODs sont très lourds, ce n'est pas possible de les importer directement avec le reste du modpack. Cette étape n'est pas indispensable, mais fortement recommandée pour éviter d'avoir à télécharger les LODs depuis le serveur, ce qui peut être long.
+
+Accédez au dossier d'installation du jeu avec le bouton "Folder".
+
+![alt text](./readme_images/prism_folder_open.png)
+
+Allez dans le dossier "Minecraft", puis déplacez le .zip téléchargé plus haut "Distant_Horizons_server_data.zip" dedans.
+
+Faite clic droit puis "extraire ici". Vous devriez avoir un dossier nommé "Distant_Horizons_server_data" comme cela :
+
+![alt text](./readme_images/folder_dh.png)
+
+Qui contient : 
+
+![alt text](./readme_images/folder_dh_inside.png)
+
+S'il contient un dossier "Distant_Horizon_server_data", déplacez son contenu dedans et supprimez le dossier. S'il contient des dossier ...overworld et ...the_nether, déplacez les dans un dossier nommé "PCRForeverWorld" (le nom est important !).
 
 Si tout est bon, vous pouvez fermer la fenêtre et lancer l'instance avec le bouton "Launch"
 
