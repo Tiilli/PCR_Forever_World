@@ -216,3 +216,44 @@ Pour simplifier, le "Scale factor" définit l'échelle de résolution dans laque
 Pour le meilleur rendu, mettez un scale factor de 1.0 (donc aucune modification), mais si vous souhaitez gagner en performance, un scale factor de 0.8 permettra de gagner déjà pas mal de fps.
 
 Je conseille ensuite d'activer le "FSR 1 upscaling" qui améliore grandement le rendu lorsque le scale factor est bas.
+
+## Exemple de configuration
+Maintenant que vous avez le détails des paramètres dispo, voici différentes configurations en fonction de vos performances recherchées.
+
+### Fancy
+- Video settings de base
+- Pack de shader "Fancy - Complementary Shaders + Euphoria Patches"
+- Profil de resource pack "Fancy Dark" ou "Fancy Light"
+- Distant Horizon
+  - Radius "256 chunks"
+  - Quality "High"
+  - CPU Load "Balanced"
+- Render scale
+  - Scale factor "1.0"
+  - FSR "No"
+
+### Balanced
+- Video settings de base
+- Pack de shader "Balanced - Complementary Shader + Euphoria Patches" ou "Fast - Complementary Shader + Euphoria Patches" ou "Fancy - Simply Upscaled"
+- Profil de resource pack "Fancy Dark" ou "Fancy Light"
+- Distant Horizon
+  - Radius "256 chunks"
+  - Quality "Medium"
+  - CPU Load "Low"
+- Render scale
+  - Scale factor "0.8"
+  - FSR "Yes"
+
+### Fast
+- Video settings
+  - Render distance "8 chunks"
+  - Dynamic Lights "Off"
+- Pack de shader "Fast - Complementary Shaders ou "Fast - Simply Upscaled"
+- Profil de resource pack "Fast Dark" ou "Fast Light"
+- Distant Horizon
+  - Radius "192 chunks"
+  - Quality "Low"
+  - CPU Load "Minimum"
+- Render scale
+  - Scale factor "0.6"
+  - FSR "Yes"
