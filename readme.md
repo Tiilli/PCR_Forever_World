@@ -181,3 +181,38 @@ Les profils Dark ont les éléments d'interface dans un thème sombre tandis que
 Je recommanderais dans tous les cas les profils Fancy, qui rajoutent tout un tas de petits changements sympas comme des animations sur les mobs, mais si vraiment vos performances sont horribles, vous pourriez gagner quelques fps avec les profils Fast.
 
 Vous pouvez bien sûr aussi modifier les packs comme vous l'entendez, c'est juste des recommandations.
+
+### Distant Horizon
+Pour accéder aux paramètres de Distant Horizon, cliquez sur le bouton à gauche du FOV dans les options :
+
+![alt text](./readme_images/game_options_dh.png)
+
+Les options disponibles sont les suivantes :
+
+![alt text](./readme_images/game_dh_settings.png)
+
+Le conseille vivement de ne pas désactiver le "Rendering", la génération du monde étant très vaste DH permet d'en profiter pleinement.
+
+Je recommanderais globalement de laisser tous les paramètres tels quels, mais si vous souhaitez gagner en performance, vous pouvez :
+- Mettre le "LOD Chunk Render Distance Radius" à 192 (ou 128 si vraiment c'est trop lourd)
+- Mettre le "Quality Preset" sur Minimum ou Low
+- Mettre le "CPU Load" sur Minimum
+
+Si votre ordi le permet, vous pouvez aussi augmenter les paramètres. N'augmentez juste pas le Radius au dessus de 256, c'est overkill.
+
+### Render Scale
+Un mod d'optimisation est disponible pour gagner beaucoup de fps sans impacter grandement les visuels. C'est très utile pour celleux qui veulent jouer avec des shaders malgré un PC peu performant.
+
+Pour accéder à ses options, allez dans la liste des mods, puis chercher "renderscale". Cliquez ensuite sur le bouton paramètre qui apparait sur l'image du mod.
+
+![alt text](./readme_images/game_mods_renderscale.png)
+
+Cela ouvre une nouvelle fenêtre. Je conseillerais de toucher à rien en dehors de l'onglet "General".
+
+![alt text](./readme_images/game_renderscale_general.png)
+
+Pour simplifier, le "Scale factor" définit l'échelle de résolution dans laquelle le jeu doit s'afficher. Par exemple, si vous avez un écran en 1920x1080p, une render scale de 0.5 affichera le jeu dans une résolution de 960x540p, sans changer la résolution de l'interface.
+
+Pour le meilleur rendu, mettez un scale factor de 1.0 (donc aucune modification), mais si vous souhaitez gagner en performance, un scale factor de 0.8 permettra de gagner déjà pas mal de fps.
+
+Je conseille ensuite d'activer le "FSR 1 upscaling" qui améliore grandement le rendu lorsque le scale factor est bas.
