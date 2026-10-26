@@ -124,3 +124,20 @@ Si tout est bon, vous pouvez fermer la fenêtre et lancer l'instance avec le bou
 
 ![alt text](./readme_images/prism_instance_launch.png)
 
+# Paramétrage du jeu
+Le menu principal a été un peu modifié, voici un détail du layout :
+
+![alt text](./readme_images/game_title_screen.png)
+
+## Paramétrage du serveur
+Pour éviter de leak l'adresse IP, il faut ajouter le serveur dans la liste manuellement.
+
+Cliquez sur "Multiplayer", puis "Add a Server".
+
+![alt text](./readme_images/game_add_server.png)
+
+Dans "Server Name", entrez précisément ```PCRForeverWorld``` (copiez/coller pour éviter les fautes de frappe). Le nom est important pour que Distant Horizon charge correctement.
+
+Dans "Server Address", entrez l'IP du serveur. Elle sera partagée sur le serveur (si vous faites cette étape sans que l'IP n'ait été partagée, entrez juste un espace).
+
+Done. Désormais, lorsque vous cliquerez sur "Join Server" depuis le menu principal, cela rejoindra automatiquement ce serveur.
