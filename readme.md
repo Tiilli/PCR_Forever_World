@@ -107,7 +107,7 @@ Si ce n'est pas le cas, contactez Tilli.
 
 **Vérifiez que vous avez bien 32 ressource pack installés**
 
-![alt text](./readme_images/prism_edit_rp.png)
+![alt text](./readme_images/prism_settings_rp.png)
 
 **Vérifiez que vous avez bien ces shaders là**
 
