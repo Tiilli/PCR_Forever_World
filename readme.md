@@ -49,14 +49,16 @@ Téléchargez la version correspondant à votre système d'exploitation, par exe
 
 Suivez le processus d'installation, puis ouvrez Prism Launcher.
 
-
+Pour vérifier si Java est automatiquement installé :
 <details>
-<summary>Pour vérifier si Java est automatiquement installé :</summary>
+<summary>Spoiler</summary>
 Allez dans les paramètres de Prism :
 
 ![alt text](./readme_images/prism_settings_button.png)
+
 Puis dans l'onglet Java, vérifiez que ces options sont cochées : 
 ![alt text](./readme_images/prism_settings_java.png)
+
 Normalement, Java devrait automatiquement s'installer en lançant le modpack pour la première fois.
 
 Plus d'infos ici : https://prismlauncher.org/wiki/getting-started/installing-java/
