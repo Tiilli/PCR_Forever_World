@@ -95,7 +95,7 @@ S**électionnez le modpack et faites "Edit"**
 
 ![alt text](./readme_images/prism_edit_versions.png)
 
-**Vérifiez que vous avez bien 145 mods installés**
+**Vérifiez que vous avez bien 144 mods installés**
 
 ![alt text](./readme_images/prism_edit_mods.png)
 
