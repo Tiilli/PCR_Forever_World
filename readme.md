@@ -65,3 +65,4 @@ Plus d'infos ici : https://prismlauncher.org/wiki/getting-started/installing-jav
 </details>
 
 ## Télécharger le modpack
+Téléchargez la dernière version du modpack ici : 
