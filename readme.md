@@ -64,5 +64,58 @@ Normalement, Java devrait automatiquement s'installer en lançant le modpack pou
 Plus d'infos ici : https://prismlauncher.org/wiki/getting-started/installing-java/
 </details>
 
-## Télécharger le modpack
+## Le modpack
+
+### Téléchargement
 Téléchargez la dernière version du modpack ici : [Releases](https://codeberg.org/Tilli/PCR_Forever_World/releases)
+
+### Importer le modpack dans Prism
+Ouvrez Prism Launcher, puis cliquez sur "Add Instance"
+![alt text](./readme_images/prism_addinstance.png)
+
+Allez dans l'onglet "Import", puis "Browse"
+![alt text](./readme_images/prism_import_browse.png)
+
+Sélectionnez le fichier du modpack téléchargé plus haut (logiquement dans votre dossier Téléchargements) et cliquez sur OK.
+
+Le modpack devrait être visible désormais dans l'accueil de Prism :
+![alt text](./readme_images/prism_instance_visible.png)
+
+### Vérifier l'installation
+S**électionnez le modpack et faites "Edit"**
+
+![alt text](./readme_images/prism_instance_edit.png)
+
+**Vérifiez les versions du jeu et loader**
+
+![alt text](./readme_images/prism_edit_versions.png)
+
+**Vérifiez que vous avez bien 145 mods installés**
+
+![alt text](./readme_images/prism_edit_mods.png)
+
+Si ce n'est pas le cas, contactez Tilli.
+
+**Vérifiez que vous avez bien 32 ressource pack installés**
+
+![alt text](./readme_images/prism_edit_rp.png)
+
+Si ce n'est pas le cas, contactez Tilli.
+
+**Vérifiez que vous avez bien ces shaders là**
+
+![alt text](./readme_images/prism_edit_shaders.png)
+
+Si ce n'est pas le cas, contactez Tilli.
+
+**Vérifiez les paramètres Java**
+
+![alt text](./readme_images/prism_edit_java.png)
+
+- Pour la mémoire, le maximum memory usage recommandé est **8192 MiB**, mais vous pouvez essayer d'allouer plus ou moins en fonction de votre PC
+- Pour les Java Arguments, si vous n'avez pas d'argument listé, copiez/collez cela : ```-XX:+UseZGC``` (important pour Distant Horizon)
+
+Si tout est bon, vous pouvez fermer la fenêtre et lancer l'instance avec le bouton "Launch"
+
+![alt text](./readme_images/prism_instance_launch.png)
+
