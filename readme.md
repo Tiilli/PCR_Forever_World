@@ -138,6 +138,46 @@ Cliquez sur "Multiplayer", puis "Add a Server".
 
 Dans "Server Name", entrez précisément ```PCRForeverWorld``` (copiez/coller pour éviter les fautes de frappe). Le nom est important pour que Distant Horizon charge correctement.
 
-Dans "Server Address", entrez l'IP du serveur. Elle sera partagée sur le serveur (si vous faites cette étape sans que l'IP n'ait été partagée, entrez juste un espace).
+Dans "Server Address", entrez l'IP du serveur. Elle sera partagée sur le serveur (si vous faites cette étape sans que l'IP n'ait été partagée, entrez juste un espace pour le moment, vous pourrez modifier plus tard).
 
 Done. Désormais, lorsque vous cliquerez sur "Join Server" depuis le menu principal, cela rejoindra automatiquement ce serveur.
+
+## Paramètres sonores
+Par défaut, les sons sont réglés de cette manière :
+
+![alt text](./readme_images/game_sounds.png)
+
+Libre à vous de les modifier comme vous le souhaitez. Je vous recommande cependant de laisser les sons "Ambient/Environment" assez haut vu qu'ils ont été complètement revus sur le modpack.
+
+## Paramètres graphiques
+Avec Sodium, de nombreux paramètres graphiques sont disponibles dans "Video Settings".
+
+![alt text](./readme_images/game_video_settings.png)
+
+Je conseillerais de les laisser tels quels peu importe votre configuration, si vous souhaitez améliorer les performances je vais détailler d'autres options plus bas.
+
+### Pack de Shaders
+Par défaut, j'ai mis à disposition quelques shaders ainsi que différentes configurations pour différents impacts sur les performances :
+
+![alt text](./readme_images/game_shaders.png)
+
+"Fancy" correspond aux shaders les plus lourds, mais aussi les plus jolis, "Fast" correspond aux shaders avec le moins d'impact sur les performances et "Balanced" est plutôt entre deux.
+
+Je recommanderais aussi les shaders avec des "Euphoria Patches", ils rajoutent tout un tas d'effets très jolis comme des lumières colorées ou des ciels étoilés de zinzin. Pour les meilleures performances, la version "Fast - Complementary Shaders" est celle que je recommande. Les shaders "Simply Upscaled" sont là pour celleux qui veulent un autre style.
+
+### Resource packs
+J'ai créé plusieurs profils de resource packs en fonction de leur impact sur les performances qui sont accessibles via le bouton en haut à gauche :
+
+![alt text](./readme_images/game_rp_profiles.png)
+
+Les profils sont les suivants : 
+- Fancy Dark
+- Fancy Light
+- Fast Dark
+- Fast Light
+
+Les profils Dark ont les éléments d'interface dans un thème sombre tandis que les profils Light sont dans un thème clair.
+
+Je recommanderais dans tous les cas les profils Fancy, qui rajoutent tout un tas de petits changements sympas comme des animations sur les mobs, mais si vraiment vos performances sont horribles, vous pourriez gagner quelques fps avec les profils Fast.
+
+Vous pouvez bien sûr aussi modifier les packs comme vous l'entendez, c'est juste des recommandations.
