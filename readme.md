@@ -45,7 +45,8 @@ J'ai aussi mis à disposition des shaders avec différentes configs, comme ça v
 Pour installer le modpack, vous aurez besoin de télécharger Prism Launcher, un launcher Minecraft Open Source : https://prismlauncher.org/
 
 Téléchargez la version correspondant à votre système d'exploitation, par exemple pour Windows :
-![Image montrant la page de téléchargement de Prism pour Windows, avec la version x86-64 en installer .exe sélectionnée](./readme_images/prism_download.png)
+
+![alt text](./readme_images/prism_download.png)
 
 Suivez le processus d'installation, puis ouvrez Prism Launcher.
 
@@ -57,6 +58,7 @@ Allez dans les paramètres de Prism :
 ![alt text](./readme_images/prism_settings_button.png)
 
 Puis dans l'onglet Java, vérifiez que ces options sont cochées : 
+
 ![alt text](./readme_images/prism_settings_java.png)
 
 Normalement, Java devrait automatiquement s'installer en lançant le modpack pour la première fois.
@@ -71,14 +73,17 @@ Téléchargez la dernière version du modpack ici : [Releases](https://codeberg.
 
 ### Importer le modpack dans Prism
 Ouvrez Prism Launcher, puis cliquez sur "Add Instance"
+
 ![alt text](./readme_images/prism_addinstance.png)
 
 Allez dans l'onglet "Import", puis "Browse"
+
 ![alt text](./readme_images/prism_import_browse.png)
 
 Sélectionnez le fichier du modpack téléchargé plus haut (logiquement dans votre dossier Téléchargements) et cliquez sur OK.
 
 Le modpack devrait être visible désormais dans l'accueil de Prism :
+
 ![alt text](./readme_images/prism_instance_visible.png)
 
 ### Vérifier l'installation
