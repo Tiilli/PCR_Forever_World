@@ -99,13 +99,11 @@ S**électionnez le modpack et faites "Edit"**
 
 ![alt text](./readme_images/prism_edit_versions.png)
 
-**Vérifiez que vous avez bien 144 mods installés**
+**Vérifiez que vous avez bien les mods installés**
 
 ![alt text](./readme_images/prism_edit_mods.png)
 
-Si ce n'est pas le cas, contactez Tilli.
-
-**Vérifiez que vous avez bien 32 ressource pack installés**
+**Vérifiez que vous avez bien les ressource packs installés**
 
 ![alt text](./readme_images/prism_settings_rp.png)
 
