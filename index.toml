@@ -417,10 +417,6 @@ file = "config/exposure-server.toml"
 hash = "220326e91387a78e4e313b4b6e0b703e5033e63e1f8d1cdf769b6d60a3834e3f"
 
 [[files]]
-file = "config/fabric_loader_dependencies.json"
-hash = "2a8e920c1af18a483a4bf85e4f9486c9d00cefea3eb1215de5bbd84beb9bb55a"
-
-[[files]]
 file = "config/fallingleaves2.json"
 hash = "cb9d4d481a63cddaf7e90a3e3f8c5bb134cd0be8f1401b1f808c55bf0ab4572f"
 
