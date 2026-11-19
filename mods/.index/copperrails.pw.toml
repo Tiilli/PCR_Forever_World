@@ -1,0 +1,18 @@
+filename = 'copperrails-1.1.1+mc26.3.jar'
+name = 'Copper Rails'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.1'
+
+[download]
+hash = '60df2f4b53cd2b7c83f2645a2c4ae8618c841bfba2183f1d76cd7acd3f67ffac91d43ebaf75ea4c3d9c39664e6db82d4cefa37b7b32b6bc78b849691c76fd0d2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vdIUVEqI/versions/Iqw2Cugq/copperrails-1.1.1%2Bmc26.3.jar'
+
+[update.modrinth]
+mod-id = 'vdIUVEqI'
+version = 'Iqw2Cugq'

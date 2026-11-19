@@ -1,0 +1,21 @@
+filename = 'libjf-26.3.1.jar'
+name = 'LibJF'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '26.3.1'
+
+[download]
+hash = '5ec5183fbf8b045b986cf0534dac39dee62934fd86dd1255286f5b6a55f6ee499782d4a4d873fc81cde3ec8337af5f0e36125f3b67fa39744a9b2082dc6d6051'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/WKwQAwke/versions/S0d8Wc3k/libjf-26.3.1.jar'
+
+[update.modrinth]
+mod-id = 'WKwQAwke'
+version = 'S0d8Wc3k'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'OPTIONAL'

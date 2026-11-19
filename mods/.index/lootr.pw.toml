@@ -1,0 +1,21 @@
+filename = 'lootr-fabric-26.3-1.25.42.124.jar'
+name = 'Lootr'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.25.42.124'
+
+[download]
+hash = '290786fd4af4011c4f09c425d262bacc80f6ef47e23fbf6424193c719b6045a70cae70308c95d30c5ab78bf1f5a3d089cc3b01db8cc4dacc1a74c0f2d70c245d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/EltpO5cN/versions/gVwn7m2v/lootr-fabric-26.3-1.25.42.124.jar'
+
+[update.modrinth]
+mod-id = 'EltpO5cN'
+version = 'gVwn7m2v'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

@@ -1,0 +1,18 @@
+filename = 'c2me-fabric-mc26.3-0.4.2-alpha.0.106.jar'
+name = 'Concurrent Chunk Management Engine (Fabric)'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-version-number = '0.4.2-alpha.0.106+26.3'
+
+[download]
+hash = '047ed3fe3869d0185c6d1e94fd1e725b2ad40047e4929f22692090570af28d0075849cb65335b602658859c7d437cce51c94082c0c798617314764cfdc0a1d71'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/VSNURh3q/versions/gKKkuSYc/c2me-fabric-mc26.3-0.4.2-alpha.0.106.jar'
+
+[update.modrinth]
+mod-id = 'VSNURh3q'
+version = 'gKKkuSYc'

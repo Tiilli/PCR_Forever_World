@@ -1,0 +1,25 @@
+filename = 'icys-better-horses-2.1.6-fab-26.3.jar'
+name = "Icy's Better Horses"
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.1.6'
+
+[download]
+hash = '81807ee9807b7bc29330ae71f5f7f1fc27a269aee55e186146cd66240f80f22b674fc6736e4d5d64523352f3ae382fa37f5d2ab8cedcb8ae5b5d2f899eb28119'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XlUm5I57/versions/rPe5szD0/icys-better-horses-2.1.6-fab-26.3.jar'
+
+[update.modrinth]
+mod-id = 'XlUm5I57'
+version = 'rPe5szD0'
+
+[[x-prismlauncher-dependencies]]
+addonId = '692GClaE'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '8BmcQJ2H'
+type = 'REQUIRED'

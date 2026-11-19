@@ -1,0 +1,25 @@
+filename = 'Spice of Life Onion_FABRIC_v1.6.0_mc26.3.jar'
+name = 'Spice of Life Onion'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.6.0'
+
+[download]
+hash = 'a56a3a7f41055bfed4924514f9f64e0ffb9adbd0c25750479b85cf5cd87dfc13223e4c4ec62fdf6f7588cd179ae9c4bf8b491fc341c4910c5a3568cc75a61df8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/eHGYGKJz/versions/7cQsyOVR/Spice of Life Onion_FABRIC_v1.6.0_mc26.3.jar'
+
+[update.modrinth]
+mod-id = 'eHGYGKJz'
+version = '7cQsyOVR'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'OsZiaDHq'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

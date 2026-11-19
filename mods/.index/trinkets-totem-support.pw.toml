@@ -1,0 +1,21 @@
+filename = 'trinkets-totem-support-1.0.0.jar'
+name = 'Trinkets Totem Support'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2', '26.2', '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.0+mod'
+
+[download]
+hash = '71fe22357df23ba44fcf7c72ee44df9ea005f8c94c1bf2f63c817b9cc6dd5e70d27ec94601e3c7a480fe9d421d4c86bcdbcee30daca06d35f2f0d20f2cd34d01'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/c17Rhdsy/versions/JmEEY6S8/trinkets-totem-support-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'c17Rhdsy'
+version = 'JmEEY6S8'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'XaT8sLP6'
+type = 'REQUIRED'

@@ -1,0 +1,29 @@
+filename = 'overflowingbars-v26.3.0-mc26.3.x+fabric.jar'
+name = 'Overflowing Bars'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '26.3.0'
+
+[download]
+hash = 'afb3597a47618c7b7395418322271c0500f2c438f7fe97e4b107c745f9e035a18701309ddbf61244f072dbc83b41c90fbb7eadf68d921a356cd84e96560ff48d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XD7XOrAF/versions/ZHqDQjLH/overflowingbars-v26.3.0-mc26.3.x%2Bfabric.jar'
+
+[update.modrinth]
+mod-id = 'XD7XOrAF'
+version = 'ZHqDQjLH'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'QAGBst4M'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'ohNO6lps'
+type = 'REQUIRED'

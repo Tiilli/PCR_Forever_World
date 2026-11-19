@@ -1,0 +1,21 @@
+filename = 'nerb-fabric-0.4.3+26.3.jar'
+name = 'Not Enough Recipe Book [NERB]'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.4.3+26.3'
+
+[download]
+hash = 'ecbc04bbf1fe57f81ad4f619db291f3d59b98b530d470f62a464d776399020e5f0a9d85e523b9f2ea826c137437ff43a5727025b8b41b1c131b8e8841bc39ac9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/bQh7xzFq/versions/OR32qzkD/nerb-fabric-0.4.3%2B26.3.jar'
+
+[update.modrinth]
+mod-id = 'bQh7xzFq'
+version = 'OR32qzkD'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'RH2KUdKJ'
+type = 'REQUIRED'

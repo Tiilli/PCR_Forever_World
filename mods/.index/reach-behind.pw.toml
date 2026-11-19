@@ -1,0 +1,29 @@
+filename = 'reachbehind-v26.3.0-mc26.3.x+fabric.jar'
+name = 'Reach Behind'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '26.3.0'
+
+[download]
+hash = 'dc57b48f49561080b60fab8f162fc4ff31816031286f82cf5174a3f7524103dd18e9c80996bc8ac24c9a2f180487b3b2f3ebbaedf5cbbdcbd0709d1f9b1e342f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/MDljZreW/versions/bXmtRkSU/reachbehind-v26.3.0-mc26.3.x%2Bfabric.jar'
+
+[update.modrinth]
+mod-id = 'MDljZreW'
+version = 'bXmtRkSU'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'ohNO6lps'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'QAGBst4M'
+type = 'REQUIRED'

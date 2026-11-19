@@ -1,0 +1,18 @@
+filename = 'scribble-2.1.0+mc26.3.jar'
+name = 'Scribble'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.1.0+mc26.3'
+
+[download]
+hash = '174735dccbe49867560d40ba84d304800e49b1f6fbbda4924329bd02dfcc62ff0138247fa791042ca7fc8a7b2e5ba20461ad173f6ad2b174bed30c89fdfc517e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/yXAvIk0x/versions/aXAUZoEb/scribble-2.1.0%2Bmc26.3.jar'
+
+[update.modrinth]
+mod-id = 'yXAvIk0x'
+version = 'aXAUZoEb'
