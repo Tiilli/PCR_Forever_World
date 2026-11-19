@@ -1,25 +1,13 @@
-filename = 'respackopts-26.3.0.jar'
-name = 'Respackopts'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'fabric' ]
-x-prismlauncher-mc-versions = [ '26.3' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '26.3.0'
+name = "Respackopts"
+filename = "respackopts-26.3.0.jar"
+side = "both"
 
 [download]
-hash = '22f977be3f462b02423d10e136c193959c391fc429b0ba0207aab245e6b967047aed6405d27708c6dc3144377076ff352898e695d8637d619ff2be3e9fe791b2'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/TiF5QWZY/versions/Whg3OJJA/respackopts-26.3.0.jar'
+url = "https://cdn.modrinth.com/data/TiF5QWZY/versions/Whg3OJJA/respackopts-26.3.0.jar"
+hash-format = "sha512"
+hash = "22f977be3f462b02423d10e136c193959c391fc429b0ba0207aab245e6b967047aed6405d27708c6dc3144377076ff352898e695d8637d619ff2be3e9fe791b2"
 
+[update]
 [update.modrinth]
-mod-id = 'TiF5QWZY'
-version = 'Whg3OJJA'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'mOgUt4GM'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'WKwQAwke'
-type = 'REQUIRED'
+mod-id = "TiF5QWZY"
+version = "Whg3OJJA"

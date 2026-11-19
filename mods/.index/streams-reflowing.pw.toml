@@ -1,21 +1,13 @@
-filename = 'StreamsReflowing-26.3-fabric-2.17.5.jar'
-name = 'StreamsReflowing'
-side = ''
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '26.3' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '2.17.5'
+name = "streams-reflowing"
+filename = "StreamsReflowing-26.3-fabric-2.17.5.jar"
+side = "both"
 
 [download]
-hash = 'c0fabf42aa003df41e8da43bab8b1f4aae0bc7e877c6bdb4626b5635af221444ef70a447e250e5270907ba567d9640ce6ff626db0fbf46cdfd03b0fcf7af78bb'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/oLS8HdJ1/versions/NGBAwGh3/StreamsReflowing-26.3-fabric-2.17.5.jar'
+url = "https://cdn.modrinth.com/data/oLS8HdJ1/versions/NGBAwGh3/StreamsReflowing-26.3-fabric-2.17.5.jar"
+hash-format = "sha256"
+hash = "fd1c73813377be7988ca4f39e8b434f80dbcd89fdcfeda804a64d9463cbd8ae9"
 
+[update]
 [update.modrinth]
-mod-id = 'oLS8HdJ1'
-version = 'NGBAwGh3'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'P7dR8mSH'
-type = 'REQUIRED'
+mod-id = "oLS8HdJ1"
+version = "NGBAwGh3"

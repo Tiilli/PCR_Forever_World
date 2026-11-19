@@ -1,29 +1,13 @@
-filename = 'Multiworld-Fabric-bundle.jar'
-name = 'Multiworld'
-side = 'both'
-x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.1', '1.21.11', '26.1.2', '26.2', '26.3' ]
-x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = '1.14.2'
+name = "Multiworld"
+filename = "Multiworld-Fabric-bundle.jar"
+side = "both"
 
 [download]
-hash = '4f18e332781d54d9e6cd7b95fd50367060ac60cfde1bc0228aba0ba3556b5ae681a2b31ccc27bdf9dc390c662c29cee5b10eac9f1967f8e67f0cd5bdf9e7cac1'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/fgvoNDL1/versions/OwgBsqTu/Multiworld-Fabric-bundle.jar'
+url = "https://cdn.modrinth.com/data/fgvoNDL1/versions/OwgBsqTu/Multiworld-Fabric-bundle.jar"
+hash-format = "sha512"
+hash = "4f18e332781d54d9e6cd7b95fd50367060ac60cfde1bc0228aba0ba3556b5ae681a2b31ccc27bdf9dc390c662c29cee5b10eac9f1967f8e67f0cd5bdf9e7cac1"
 
+[update]
 [update.modrinth]
-mod-id = 'fgvoNDL1'
-version = 'OwgBsqTu'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'P7dR8mSH'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'SVKv1SZo'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'tXvf0aoF'
-type = 'OPTIONAL'
+mod-id = "fgvoNDL1"
+version = "OwgBsqTu"

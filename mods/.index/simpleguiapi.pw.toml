@@ -1,21 +1,13 @@
-filename = 'SimpleGUI-API-1.5.10+1.21.x+26.1.x+26.2.x+26.3.x.jar'
-name = 'Simple GUI API'
-side = 'client'
-x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.1', '1.21.11', '26.1.2', '26.2', '26.3' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.5.10'
+name = "Simple GUI API"
+filename = "SimpleGUI-API-1.5.10+1.21.x+26.1.x+26.2.x+26.3.x.jar"
+side = "client"
 
 [download]
-hash = 'd26b02efbc79f2bc80e2b7fef080935c29072cfc4129e5acec0d1f47e308255b0b63940a9a06524590ed34fcad01385eeb25817b433e3d852fa2eaf2f7a7338f'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/DqmuJlhl/versions/QKwR9Hu9/SimpleGUI-API-1.5.10%2B1.21.x%2B26.1.x%2B26.2.x%2B26.3.x.jar'
+url = "https://cdn.modrinth.com/data/DqmuJlhl/versions/QKwR9Hu9/SimpleGUI-API-1.5.10%2B1.21.x%2B26.1.x%2B26.2.x%2B26.3.x.jar"
+hash-format = "sha512"
+hash = "d26b02efbc79f2bc80e2b7fef080935c29072cfc4129e5acec0d1f47e308255b0b63940a9a06524590ed34fcad01385eeb25817b433e3d852fa2eaf2f7a7338f"
 
+[update]
 [update.modrinth]
-mod-id = 'DqmuJlhl'
-version = 'QKwR9Hu9'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'iZ5gjkqG'
-type = 'EMBEDDED'
+mod-id = "DqmuJlhl"
+version = "QKwR9Hu9"

@@ -1,29 +1,13 @@
-filename = 'leavemybarsalone-v26.3.0-mc26.3.x+fabric.jar'
-name = 'Leave My Bars Alone'
-side = 'client'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '26.3' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '26.3.0'
+name = "Leave My Bars Alone"
+filename = "leavemybarsalone-v26.3.0-mc26.3.x+fabric.jar"
+side = "client"
 
 [download]
-hash = '1210ad5d6d7f2f080dce596d82ed5ff54a31ee6a3e75a4a49999acf7272de6d13f3155887263c237d796b64d44034b4240bb1807e48ff46ff10d314bbca0b4b8'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/gK9mebQg/versions/536Rcc1N/leavemybarsalone-v26.3.0-mc26.3.x%2Bfabric.jar'
+url = "https://cdn.modrinth.com/data/gK9mebQg/versions/536Rcc1N/leavemybarsalone-v26.3.0-mc26.3.x%2Bfabric.jar"
+hash-format = "sha512"
+hash = "1210ad5d6d7f2f080dce596d82ed5ff54a31ee6a3e75a4a49999acf7272de6d13f3155887263c237d796b64d44034b4240bb1807e48ff46ff10d314bbca0b4b8"
 
+[update]
 [update.modrinth]
-mod-id = 'gK9mebQg'
-version = '536Rcc1N'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'ohNO6lps'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'P7dR8mSH'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'QAGBst4M'
-type = 'REQUIRED'
+mod-id = "gK9mebQg"
+version = "536Rcc1N"

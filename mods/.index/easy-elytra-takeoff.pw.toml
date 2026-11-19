@@ -1,21 +1,13 @@
-filename = 'easyelytratakeoff-26.3.0-4.6.jar'
-name = 'Easy Elytra Takeoff'
-side = 'server'
-x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [ '26.3' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '26.3.0-4.6-fabric+forge+neo'
+name = "Easy Elytra Takeoff"
+filename = "easyelytratakeoff-26.3.0-4.6.jar"
+side = "both"
 
 [download]
-hash = 'f40618fec21cd72dd79af2eced8c3fb9bd9c22a26e165ee470daf16f79bca734d9542d5b698aaa179c39d667db23d507c4f864c5fe59263f26c22b575baf3e02'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/3hqwGCUB/versions/FlbM5sr1/easyelytratakeoff-26.3.0-4.6.jar'
+url = "https://cdn.modrinth.com/data/3hqwGCUB/versions/FlbM5sr1/easyelytratakeoff-26.3.0-4.6.jar"
+hash-format = "sha512"
+hash = "f40618fec21cd72dd79af2eced8c3fb9bd9c22a26e165ee470daf16f79bca734d9542d5b698aaa179c39d667db23d507c4f864c5fe59263f26c22b575baf3e02"
 
+[update]
 [update.modrinth]
-mod-id = '3hqwGCUB'
-version = 'FlbM5sr1'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'e0M1UDsY'
-type = 'REQUIRED'
+mod-id = "3hqwGCUB"
+version = "FlbM5sr1"

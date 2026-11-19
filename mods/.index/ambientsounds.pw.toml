@@ -1,25 +1,13 @@
-filename = 'AmbientSounds_FABRIC_v6.3.11_mc26.3.jar'
-name = 'AmbientSounds'
-side = 'client'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '26.3' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '6.3.11'
+name = "ambientsounds"
+filename = "AmbientSounds_FABRIC_v6.3.11_mc26.3.jar"
+side = "both"
 
 [download]
-hash = 'bd042fec99c1178f5521166f4a0284a2d5d9780e43a20404b62933f3870bfa957ec30c038173df14ce615b095e73b5a78484a416d8b02c8aeadf2973f53426d0'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/fM515JnW/versions/LFUkYKC1/AmbientSounds_FABRIC_v6.3.11_mc26.3.jar'
+url = "https://cdn.modrinth.com/data/fM515JnW/versions/LFUkYKC1/AmbientSounds_FABRIC_v6.3.11_mc26.3.jar"
+hash-format = "sha256"
+hash = "5e9677b06ed2ada8108b42e1d78355853b5193565d61af3c9509981344fa1a73"
 
+[update]
 [update.modrinth]
-mod-id = 'fM515JnW'
-version = 'LFUkYKC1'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'P7dR8mSH'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'OsZiaDHq'
-type = 'REQUIRED'
+mod-id = "fM515JnW"
+version = "LFUkYKC1"

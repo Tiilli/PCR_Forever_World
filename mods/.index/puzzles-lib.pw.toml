@@ -1,25 +1,13 @@
-filename = 'puzzleslib-v26.3.16-mc26.3.x+fabric.jar'
-name = 'Puzzles Lib'
-side = ''
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '26.3' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '26.3.16'
+name = "puzzles-lib"
+filename = "puzzleslib-v26.3.16-mc26.3.x+fabric.jar"
+side = "both"
 
 [download]
-hash = 'cc24861a285b772ba8a68a9b3f82cc60c42f84f55cf053d42303baad392b55ca0c825c43d1d99266eb2e203f390f3afa390e7f1dab5546de80eabe733070f2c0'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/QAGBst4M/versions/vbwu116x/puzzleslib-v26.3.16-mc26.3.x%2Bfabric.jar'
+url = "https://cdn.modrinth.com/data/QAGBst4M/versions/vbwu116x/puzzleslib-v26.3.16-mc26.3.x%2Bfabric.jar"
+hash-format = "sha256"
+hash = "ab95b755fa186c3683d86b7961f7f8b69685f83f588f36c444a47ebaea937b4b"
 
+[update]
 [update.modrinth]
-mod-id = 'QAGBst4M'
-version = 'vbwu116x'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'P7dR8mSH'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'ohNO6lps'
-type = 'REQUIRED'
+mod-id = "QAGBst4M"
+version = "vbwu116x"

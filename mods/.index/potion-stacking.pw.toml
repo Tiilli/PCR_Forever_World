@@ -1,18 +1,13 @@
-filename = 'potionstacking-1.1.5-26.3.jar'
-name = 'Potion Stacking'
-side = 'both'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '26.3' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.1.5-26.3'
+name = "Potion Stacking"
+filename = "potionstacking-1.1.5-26.3.jar"
+side = "both"
 
 [download]
-hash = 'fe03d84b656160529c10cace2929efd3cfeb5cb4f7d026627c8ea245f6b0732b87e09d95fbdb7599d41e9869d7946ec0be9743a90b44d78c886e3169efc78ebd'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/1hvxU3F5/versions/vwLLYChQ/potionstacking-1.1.5-26.3.jar'
+url = "https://cdn.modrinth.com/data/1hvxU3F5/versions/vwLLYChQ/potionstacking-1.1.5-26.3.jar"
+hash-format = "sha512"
+hash = "fe03d84b656160529c10cace2929efd3cfeb5cb4f7d026627c8ea245f6b0732b87e09d95fbdb7599d41e9869d7946ec0be9743a90b44d78c886e3169efc78ebd"
 
+[update]
 [update.modrinth]
-mod-id = '1hvxU3F5'
-version = 'vwLLYChQ'
+mod-id = "1hvxU3F5"
+version = "vwLLYChQ"
