@@ -3160,7 +3160,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "d0514caa6f1899e2b0bc5fba4ff5ba03f111055177107b07ae4f8fd918ac14a9"
+hash = "074dcfa6e7b955b68eba1fdec07b434a5e82ab00b4b97a0499bfbecb7fcf55be"
 
 [[files]]
 file = "resourcepacks/3fresh-bflower-pots.pw.toml"
