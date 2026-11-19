@@ -2216,7 +2216,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "04a45e6752dc0ca3ffccf09b5032b501d8a511cefe49190dcd94835f97258889"
+hash = "400f1c90b08dd3223a6bb991f3a3e6ffeddf0957eb9abf2b8c13c0a7a3e68490"
 metafile = true
 
 [[files]]
