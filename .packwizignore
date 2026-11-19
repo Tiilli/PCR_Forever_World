@@ -11,3 +11,7 @@ config/spark/tmp*/
 config/.puzzle_cache/
 config/etf_warnings.json
 config/controlify/profile-1.lock
+readme.md
+readme_images/
+.gitignore
+.gitattributes
