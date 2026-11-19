@@ -1029,10 +1029,6 @@ file = "config/overflowingbars-client.toml"
 hash = "bd57e6484115d938e019a63645811e78b46728d67972464490c987df83769f78"
 
 [[files]]
-file = "config/packed_packs/__version.json"
-hash = "53d0bd0d7dcc4f7d177829026f9f473fd8a5b5cd328c483a883de9a70ba33f1f"
-
-[[files]]
 file = "config/packed_packs/config.json"
 hash = "9c97b793d3e4f340073aa4016e8fd96f1df2d64a15a034bcc338d60badc333b5"
 
@@ -2602,6 +2598,10 @@ hash = "b557dcd41c070d1050d672e91017d2649548fbc0d6524e9c466786c98b0ac3da"
 [[files]]
 file = "shaderpacks/Fast - Complementary Reimagined.zip.txt"
 hash = "6485141ab4a3ec715467da44f8430b933ecd18eba86b81a35d8e32f712f7b703"
+
+[[files]]
+file = "shaderpacks/balanced-complementary-reimagined.pw copy.toml"
+hash = "0d32bfe86e50ee8f5533cf53f1f1a3597f34df2ae2408b120f96bc4bbc723706"
 
 [[files]]
 file = "shaderpacks/balanced-complementary-reimagined.pw.toml"
