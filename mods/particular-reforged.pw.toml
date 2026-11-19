@@ -1,0 +1,13 @@
+name = "particular-reforged"
+filename = "particular-26.3-Fabric-1.5.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pYFUU6cq/versions/erj2kjMs/particular-26.3-Fabric-1.5.7.jar"
+hash-format = "sha256"
+hash = "c14b3db2576f3daa81f05b3a65a2906f82107c152b08f2ad13cd21c296783086"
+
+[update]
+[update.modrinth]
+mod-id = "pYFUU6cq"
+version = "erj2kjMs"

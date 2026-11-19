@@ -1,0 +1,13 @@
+name = "shatterbyte-lib"
+filename = "shatterlib-fabric-0.7.0-beta.4+26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RH2KUdKJ/versions/zujVCEvc/shatterlib-fabric-0.7.0-beta.4%2B26.3.jar"
+hash-format = "sha256"
+hash = "7124db13c86daf77da3cb8f1a4c389df3bbf144c31b5e044a80ddc16ecd0183b"
+
+[update]
+[update.modrinth]
+mod-id = "RH2KUdKJ"
+version = "zujVCEvc"

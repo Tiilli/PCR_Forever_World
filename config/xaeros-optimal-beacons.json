@@ -1,0 +1,28 @@
+{
+  "planner": {
+    "selectedTier": "FOUR",
+    "defaultManualTier": "FOUR",
+    "selectedSnapMode": "FREE",
+    "selectedPreference": "FULL_AREA"
+  },
+  "ui": {
+    "showPlanLabels": true,
+    "showHeatmap": true,
+    "enableDirectionalGapAdjustment": true
+  },
+  "colors": {
+    "manualFill": -188399080,
+    "manualInnerBorder": -2133152,
+    "manualBorder": -1067598,
+    "manualRing": 606943989,
+    "manualCore": -10996737,
+    "planCovered": 1068029474,
+    "planOverlap": -2142888,
+    "planHeavyOverlap": -735039320,
+    "planUncovered": -1671626890,
+    "planInnerBorder": 2060053326,
+    "planBorder": -990971232,
+    "planRing": 438447861,
+    "planCore": -14145281
+  }
+}

@@ -1,0 +1,8 @@
+name = "Flower Clusters 1.2.1"
+filename = "Flower Clusters 1.2.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rKubepOk/versions/PnXx6ERL/Flower%20Clusters%201.2.1.zip"
+hash-format = "sha256"
+hash = "fa4151775d07ac0832cd3969e7a9faee008623200493e8ba3b2660965de65749"

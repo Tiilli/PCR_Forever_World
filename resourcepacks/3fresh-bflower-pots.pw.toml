@@ -1,0 +1,8 @@
+name = "§3Fresh §bFlower Pots"
+filename = "§3Fresh §bFlower Pots.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CmEN0T1m/versions/YEM2pUsf/%C2%A73Fresh%20%C2%A7bFlower%20Pots.zip"
+hash-format = "sha256"
+hash = "ec3a1bafdeb0e1ee680cc278ef488b667358f32b88600d2fa59fb256c36394c5"

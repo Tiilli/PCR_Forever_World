@@ -1,0 +1,13 @@
+name = "Tool Trims Mod"
+filename = "tooltrims-2.0.11-beta2+tt3.0.x+mc26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GqdixiwC/versions/Xl33mYn4/tooltrims-2.0.11-beta2%2Btt3.0.x%2Bmc26.3.jar"
+hash-format = "sha512"
+hash = "4049c5e1f883b4be77bc855488b03b612013a2a09dba42d5dee61658b0b33f422a7d5ddd7e01a68796bf390ccfb2da1aa1cc7ee39ea93c01a6b6938edafc1c58"
+
+[update]
+[update.modrinth]
+mod-id = "GqdixiwC"
+version = "Xl33mYn4"

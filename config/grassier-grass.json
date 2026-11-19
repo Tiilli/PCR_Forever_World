@@ -1,0 +1,30 @@
+{
+  "bladesPerBlock": 32,
+  "grassSparsity": 0.2,
+  "bladeHeight": 0.45,
+  "heightVariation": 1.5,
+  "bladeWidth": 0.95,
+  "renderRadius": 160,
+  "grassStyle": "SEGMENTED",
+  "grassPlantsAsBlades": false,
+  "renderLod": true,
+  "denseFlowers": true,
+  "bladeParticles": true,
+  "grassThroughSnow": false,
+  "shaderPackShadows": false,
+  "grassBrightness": 1.0,
+  "bladeHueJitterDegrees": 8.0,
+  "bladeGradientBottom": 0.8,
+  "bladeGradientTop": 1.0,
+  "bladeGradientCurve": 1.9,
+  "windSpeed": 100,
+  "windDirectionDegrees": 0.0,
+  "dynamicWind": true,
+  "dynamicWindSpeedLimit": 0.8,
+  "plantBlacklist": [
+    "minecraft:sea_pickle",
+    "minecraft:seagrass",
+    "minecraft:tall_seagrass"
+  ],
+  "plantWhitelist": []
+}

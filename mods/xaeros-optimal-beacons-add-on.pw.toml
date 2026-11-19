@@ -1,0 +1,13 @@
+name = "Xaero's Optimal Beacons Add-On"
+filename = "xaeros-optimal-beacons-add-on-1.3.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3pNfuOS8/versions/KdsPAK6J/xaeros-optimal-beacons-add-on-1.3.1.jar"
+hash-format = "sha512"
+hash = "8be19d19cd137cf3a17fd52b08c469b512cf665800555c5ad8de913a30918c25c61253823dcae81e28d7d895e1e1226f794a4d177ecbb9918fae9960c696de7a"
+
+[update]
+[update.modrinth]
+mod-id = "3pNfuOS8"
+version = "KdsPAK6J"

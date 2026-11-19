@@ -1,0 +1,19 @@
+{
+  "locked": false,
+  "name": "Fast Dark",
+  "overrides": {},
+  "packIds": [
+    "file/Even More Crowns v1.2.zip",
+    "file/Better Fireworks.zip",
+    "inventorymanagement:inventorymanagement-dark-ui",
+    "file/Recolourful Containers DARK 3.1.4 (1.19.4+).zip",
+    "file/Beautiful Enchanted Books - MC 26.1.2 - 8.0.0.zip",
+    "file/Beautiful Potions - MC 26.1.2 - 2.0.0.zip",
+    "file/visual_armor_trims_4.3.zip",
+    "file/Low Shield.zip",
+    "file/Leggings Fix 1.21.2-1.21.x.zip",
+    "continuity:default",
+    "continuity:glass_pane_culling_fix",
+    "vanilla"
+  ]
+}

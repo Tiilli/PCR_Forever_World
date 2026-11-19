@@ -1,0 +1,8 @@
+name = "Recolourful Containers DARK 3.1.4 (1.19.4+)"
+filename = "Recolourful Containers DARK 3.1.4 (1.19.4+).zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sQCUH0Mr/versions/YT13xMrw/Recolourful%20Containers%20DARK%203.1.4%20%281.19.4%2B%29.zip"
+hash-format = "sha256"
+hash = "5c8fa6124a0ed473f136537bb97705768e4ee72ca9a55ec3c6fa71152df77644"

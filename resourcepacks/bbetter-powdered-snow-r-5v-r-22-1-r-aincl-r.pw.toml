@@ -1,0 +1,8 @@
+name = "§bBetter Powdered Snow §r§5v§r§22.1§r§aIncl§r"
+filename = "§bBetter Powdered Snow §r§5v§r§22.1§r§aIncl§r.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tLMunSz9/versions/nuXzUji5/%C2%A7bBetter%20Powdered%20Snow%20%C2%A7r%C2%A75v%C2%A7r%C2%A722.1%C2%A7r%C2%A7aIncl%C2%A7r.zip"
+hash-format = "sha256"
+hash = "6293a913d580d1595d838687e2e6dc91694e67be672ea2d09dd163c5b19f41d8"

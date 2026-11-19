@@ -1,0 +1,10 @@
+{
+  "scanRadiusXZ": 16,
+  "minYOffset": -6,
+  "maxYOffset": 2,
+  "scanIntervalTicks": 40,
+  "showSugarCaneSpots": false,
+  "sugarCaneColor": "#6644CC44",
+  "hydratedColor": "#663355CC",
+  "unhydratedColor": "#66FF3355"
+}

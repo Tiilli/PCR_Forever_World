@@ -1,0 +1,8 @@
+name = "FA+All_Extensions-v1.9.2"
+filename = "FA+All_Extensions-v1.9.2.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YAVTU8mK/versions/R5ZGSF8A/FA%2BAll_Extensions-v1.9.2.zip"
+hash-format = "sha256"
+hash = "027acba5f64c9d1bf5ccb8daecb7fc756961bfeee866434a0ee5f7809a48d326"

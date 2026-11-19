@@ -1,0 +1,2 @@
+show_hands = true
+whitelisted_items = ["#minecraft:clonable_maps", "#minecraft:extendable_maps", "#minecraft:compasses", "minecraft:clock"]

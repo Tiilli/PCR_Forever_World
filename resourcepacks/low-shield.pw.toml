@@ -1,0 +1,8 @@
+name = "Low Shield"
+filename = "Low Shield.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CZrLuVQo/versions/4LeYKTYX/Low%20Shield.zip"
+hash-format = "sha256"
+hash = "0525e63c4809950ecf62999c5c93363078deccbc4c216ac7a4a0e44a9948d6ff"

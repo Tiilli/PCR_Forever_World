@@ -1,0 +1,13 @@
+name = "spice-of-life-onion"
+filename = "Spice of Life Onion_FABRIC_v1.6.0_mc26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eHGYGKJz/versions/7cQsyOVR/Spice%20of%20Life%20Onion_FABRIC_v1.6.0_mc26.3.jar"
+hash-format = "sha256"
+hash = "a0c780a26dd7df6494a66bdee85ce17a86c13c696a04c8aa1be32325a64dba1b"
+
+[update]
+[update.modrinth]
+mod-id = "eHGYGKJz"
+version = "7cQsyOVR"

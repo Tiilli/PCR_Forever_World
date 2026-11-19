@@ -1,0 +1,8 @@
+name = "Connected-Bricks 26.2-26.3 v3.1.1"
+filename = "Connected-Bricks 26.2-26.3 v3.1.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mnKF5Qd2/versions/jTSjTOc0/Connected-Bricks%2026.2-26.3%20v3.1.1.zip"
+hash-format = "sha256"
+hash = "80efb68eb82b31f59c243c299fb7499e8f5a3820ceb9fcc0adefef59aeaa6577"

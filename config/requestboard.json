@@ -1,0 +1,77 @@
+{
+  "_help": {
+    "maxTitleLength": "Max characters in a request title (8-128).",
+    "maxDetailsLength": "Max characters in the details text (0 disables details).",
+    "maxActiveRequestsPerPlayer": "Open requests a player can have at once (0 = unlimited).",
+    "maxObjectiveEntries": "Different items a request can ask for (1-32).",
+    "maxStacksPerObjective": "Max stacks per requested item (0 = unlimited).",
+    "harvestRequiresObjective": "Harvest requests must list at least one item.",
+    "maxAcceptors": "Players who can accept the same request (0 = unlimited).",
+    "allowAcceptOwnRequest": "Let a player accept their own request.",
+    "operatorsCanRemoveAny": "Operators can delete any request (rewards go back to the creator).",
+    "broadcastNewRequests": "Announce new requests in chat to every player.",
+    "playSounds": "Play a sound on board events.",
+    "defaultStyle": "Board look for players who have not picked one: MODERN (sticky notes) or FANTASY (old quest board).",
+    "categories": "Enable or disable each category (at least one stays enabled).",
+    "rewards.enabled": "Allow rewards (items from the creator's inventory only).",
+    "rewards.autoWithdraw": "Take reward items from the creator's inventory when the request is posted. If false, rewards are only shown and handed over manually.",
+    "rewards.autoDispatch": "When the creator closes the request, split the withdrawn rewards evenly between everyone who accepted it. Ignored if autoWithdraw is false. If false, rewards return to the creator.",
+    "rewards.splitMode": "EVEN: equal shares. PRORATA: shares in proportion to what each participant declared in their contribution (participants who declared nothing get nothing; equal shares if nobody declared anything).",
+    "rewards.remainderMode": "Who gets the leftover items when the split is uneven: RANDOM, FIRST_COME (earliest acceptors) or CREATOR (back to the creator).",
+    "rewards.maxRewardStacks": "Max reward stacks per request (1-9).",
+    "rewards.textEnabled": "Allow a short text reward (e.g. \"a free house build\"), shown on the request. Not handed out automatically.",
+    "rewards.maxTextLength": "Max characters of the text reward (8-200).",
+    "editing.enabled": "Let the creator edit their request after posting it (Edit button in the request view).",
+    "editing.category / title / details / objectives / rewards / timeLimit": "Which parts of a request can be edited. Changing rewards returns the old withdrawn items and takes the new ones. The time limit can be changed, added or removed.",
+    "contributions.creatorStock": "The creator can say how many of each item they already have; it counts in the progress.",
+    "contributions.creatorCanAdjust": "The creator can correct each participant's contribution (marked as confirmed).",
+    "contributions.enabled": "Players who accepted a request can say how many of each requested item they have, so everyone sees what is still missing. Informative only: nothing is taken from their inventory.",
+    "timeLimit.enabled": "Allow requests with a time limit; they disappear when it runs out and rewards go back to the creator.",
+    "timeLimit.maxMinutes": "Longest allowed time limit in minutes (0 = no maximum)."
+  },
+  "maxTitleLength": 40,
+  "maxDetailsLength": 300,
+  "maxActiveRequestsPerPlayer": 5,
+  "maxObjectiveEntries": 5,
+  "maxStacksPerObjective": 0,
+  "harvestRequiresObjective": true,
+  "maxAcceptors": 0,
+  "allowAcceptOwnRequest": false,
+  "operatorsCanRemoveAny": true,
+  "broadcastNewRequests": true,
+  "playSounds": true,
+  "defaultStyle": "MODERN",
+  "categories": {
+    "announcement": true,
+    "service": true,
+    "harvest": true
+  },
+  "rewards": {
+    "enabled": true,
+    "autoWithdraw": true,
+    "autoDispatch": true,
+    "remainderMode": "RANDOM",
+    "splitMode": "EVEN",
+    "maxRewardStacks": 9,
+    "textEnabled": true,
+    "maxTextLength": 60
+  },
+  "timeLimit": {
+    "enabled": true,
+    "maxMinutes": 0
+  },
+  "editing": {
+    "enabled": true,
+    "category": true,
+    "title": true,
+    "details": true,
+    "objectives": true,
+    "rewards": true,
+    "timeLimit": true
+  },
+  "contributions": {
+    "enabled": true,
+    "creatorStock": true,
+    "creatorCanAdjust": true
+  }
+}

@@ -1,0 +1,13 @@
+name = "Trinkets Totem Support"
+filename = "trinkets-totem-support-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/c17Rhdsy/versions/JmEEY6S8/trinkets-totem-support-1.0.0.jar"
+hash-format = "sha512"
+hash = "71fe22357df23ba44fcf7c72ee44df9ea005f8c94c1bf2f63c817b9cc6dd5e70d27ec94601e3c7a480fe9d421d4c86bcdbcee30daca06d35f2f0d20f2cd34d01"
+
+[update]
+[update.modrinth]
+mod-id = "c17Rhdsy"
+version = "JmEEY6S8"

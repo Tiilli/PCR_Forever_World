@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Terminn",
+      "uniqueId": "907232f0-00bc-440c-a26d-06223a84a382"
+    },
+    "time": 1794261626553,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/Wwu5U5c3TA"
+    }
+  }
+]

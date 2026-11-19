@@ -1,0 +1,13 @@
+name = "mezzconfig"
+filename = "mezz_config-26.3-fabric-0.6.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7tEfOcA7/versions/GKiA7PV4/mezz_config-26.3-fabric-0.6.8.jar"
+hash-format = "sha256"
+hash = "9089137fc243e53222d969bad2c58988200f1c394fe6116fbdf01bc84ab02e51"
+
+[update]
+[update.modrinth]
+mod-id = "7tEfOcA7"
+version = "GKiA7PV4"

@@ -1,0 +1,8 @@
+name = "visual_armor_trims_4.3"
+filename = "visual_armor_trims_4.3.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tPtjib62/versions/fMircvox/visual_armor_trims_4.3.zip"
+hash-format = "sha256"
+hash = "20642aff4ec2961ff38e1613074477240fc954c2ad9a8b9b05b57388fc9b9726"

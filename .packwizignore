@@ -1,0 +1,13 @@
+.packwizignore
+import-modrinth.sh
+import-resourcepacks.sh
+repair.sh
+audit.sh
+*.log
+config/litematica/
+config/jei/world/
+fancymenu_data/buddy/
+config/spark/tmp*/
+config/.puzzle_cache/
+config/etf_warnings.json
+config/controlify/profile-1.lock

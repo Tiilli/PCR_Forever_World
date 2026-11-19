@@ -1,0 +1,13 @@
+name = "Ziplines: Rezipped!"
+filename = "zipline-1.5.3+26.3-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/C1MoWQlb/versions/5491cTU9/zipline-1.5.3%2B26.3-fabric.jar"
+hash-format = "sha512"
+hash = "0135b49873e772dd334a72f1339085c0c6dae1c5b4279e18291c97517de2694f4a8e149f70c5bd7912e30982c044c1ee34b90b748493d0620a2539c5d3bcc282"
+
+[update]
+[update.modrinth]
+mod-id = "C1MoWQlb"
+version = "5491cTU9"

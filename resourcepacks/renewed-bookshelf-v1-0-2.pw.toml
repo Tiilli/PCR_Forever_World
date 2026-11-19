@@ -1,0 +1,8 @@
+name = "Renewed Bookshelf v1.0.2 - 26.3"
+filename = "Renewed Bookshelf v1.0.2 - 26.3.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/N3fBsvtt/versions/QnIJXFts/Renewed%20Bookshelf%20v1.0.2%20-%2026.3.zip"
+hash-format = "sha256"
+hash = "4448f4b582df51718fd3c6e29c55e71c04a2ee474375871e9abd628d859c7ae8"

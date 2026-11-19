@@ -1,0 +1,10 @@
+{
+  "inventoryessentials:bulk_transfer_single": {
+    "modifiers": [
+      "key.keyboard.space"
+    ]
+  },
+  "trashslot:toggle_lock": {
+    "modifiers": []
+  }
+}

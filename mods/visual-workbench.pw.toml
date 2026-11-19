@@ -1,0 +1,13 @@
+name = "visual-workbench"
+filename = "visualworkbench-v26.3.0-mc26.3.x+fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kfqD1JRw/versions/rcsB2H1O/visualworkbench-v26.3.0-mc26.3.x%2Bfabric.jar"
+hash-format = "sha256"
+hash = "4fb89de55a51567c2bae98041bbdfb1f746eb9c0fa3a590ddd186ede94cf1de1"
+
+[update]
+[update.modrinth]
+mod-id = "kfqD1JRw"
+version = "rcsB2H1O"

@@ -1,0 +1,8 @@
+name = "eating_animations_x_farmers_delight"
+filename = "eating_animations_x_farmers_delight.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SyyRslwk/versions/CMe7y6am/eating_animations_x_farmers_delight.zip"
+hash-format = "sha256"
+hash = "026a0769702c204165a68f5ffe58f1a8828ff07654cd5257c6f1e1958c982bc7"

@@ -1,0 +1,8 @@
+name = "Enhanced Grass V1_4"
+filename = "Enhanced Grass V1_4.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/alsKcwM3/versions/y5tAorFa/Enhanced%20Grass%20V1_4.zip"
+hash-format = "sha256"
+hash = "442296cc2d0841b4048207a3bdfd2c736c5b0ef4cca3fb8798046c095ad9c17a"

@@ -1,0 +1,10 @@
+/*
+WWOO Config
+The config to mainly enable add-ons for William Wythers' Overhauled Overworld!
+*/
+{
+	/* This removes underground ores like andesite, diorite, granite and gravel.
+	   Normally these can only be found in dedicated (sub)biomes!
+	*/
+	"removeOres": true
+}

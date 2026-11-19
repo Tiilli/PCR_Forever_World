@@ -1,0 +1,8 @@
+name = "Connected-Paths 26.2-26.3 v3.1.1"
+filename = "Connected-Paths 26.2-26.3 v3.1.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Nyfj98b5/versions/Ta2igb3Q/Connected-Paths%2026.2-26.3%20v3.1.1.zip"
+hash-format = "sha256"
+hash = "fc40f72b542ea7ddaf7b2373039fdb2033ebf92ad3a9d4777067fcb5435b4dd9"

@@ -1,0 +1,8 @@
+name = "Enhanced Audio r7"
+filename = "Enhanced Audio r7.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UinPYBF7/versions/6qVu8iKs/Enhanced%20Audio%20r7.zip"
+hash-format = "sha256"
+hash = "77baaeb8469acf33c6f852aa70336d09cda781322dd32cb599eb6089ab4f323c"

@@ -1,0 +1,13 @@
+name = "cut-through"
+filename = "cutthrough-v26.3.0-mc26.3.x+fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Dk6su9JN/versions/PCWjwufI/cutthrough-v26.3.0-mc26.3.x%2Bfabric.jar"
+hash-format = "sha256"
+hash = "5631d14d96c924cb61dd6bf10633a9d450a53ffda06ecdf545b3e7b96a3b5909"
+
+[update]
+[update.modrinth]
+mod-id = "Dk6su9JN"
+version = "PCWjwufI"

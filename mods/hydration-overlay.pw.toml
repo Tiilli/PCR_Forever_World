@@ -1,0 +1,13 @@
+name = "Hydration Overlay"
+filename = "hydration_overlay-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eac6d2df70a8c2a578134d685f71a90ec64585f3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9635056
+project-id = 1808142

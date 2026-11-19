@@ -1,0 +1,8 @@
+name = "Leggings Fix 1.21.2-1.21.x"
+filename = "Leggings Fix 1.21.2-1.21.x.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9kKRfUOA/versions/GN2Elksf/Leggings%20Fix%201.21.2-1.21.x.zip"
+hash-format = "sha256"
+hash = "8f964e90608c6de1161f7abe5fc1b51acb616baab0dfee9ff6b7641101ed1efa"

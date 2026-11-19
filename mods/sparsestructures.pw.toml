@@ -1,0 +1,13 @@
+name = "sparsestructures"
+filename = "sparsestructures-fabric-26.3-3.1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qwvI41y9/versions/pDwhgAWy/sparsestructures-fabric-26.3-3.1.5.jar"
+hash-format = "sha256"
+hash = "db25470b0a72de7d9510423cdf64a0440c9170258caf7d3fa1a5dbc15762571f"
+
+[update]
+[update.modrinth]
+mod-id = "qwvI41y9"
+version = "pDwhgAWy"

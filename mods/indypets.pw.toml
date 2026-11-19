@@ -1,0 +1,13 @@
+name = "IndyPets - Independent Pets"
+filename = "indypets-1.5.7-26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SVJhmJvx/versions/vockWsc7/indypets-1.5.7-26.3.jar"
+hash-format = "sha512"
+hash = "b2208cb643394b8de267062d14c8f56c9eed5cbf1721aca9e4390338916f21c89c9ea09b863db66ecac538e47ac636e7425bac760d5dc978502c8adc22163852"
+
+[update]
+[update.modrinth]
+mod-id = "SVJhmJvx"
+version = "vockWsc7"

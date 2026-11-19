@@ -1,0 +1,8 @@
+name = "Pop-out Clock (1.21.5+)"
+filename = "Pop-out Clock (1.21.5+).zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gYMyxfkI/versions/Ik4N3fgb/Pop-out%20Clock%20%281.21.5%2B%29.zip"
+hash-format = "sha256"
+hash = "4e011501d69c01a590765ad3c972a78de7bbe984ee1fe71582a05f7761318d3e"

@@ -1,0 +1,8 @@
+name = "Beautiful Enchanted Books - MC 26.1.2 - 8.0.0"
+filename = "Beautiful Enchanted Books - MC 26.1.2 - 8.0.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VDTtLGSV/versions/AJF36y70/Beautiful%20Enchanted%20Books%20-%20MC%2026.1.2%20-%208.0.0.zip"
+hash-format = "sha256"
+hash = "e48e18c129b814807d35c3b31b7826f6d4a33f60867fcf9c8f8e5a7214a459b5"

@@ -1,0 +1,8 @@
+name = "Even More Crowns v1.2"
+filename = "Even More Crowns v1.2.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OPzwMs4m/versions/wb9AAdBQ/Even%20More%20Crowns%20v1.2.zip"
+hash-format = "sha256"
+hash = "1265f0ef93bd4739cd70dbd70df333196c7332e75c281993fa800a85e72061c9"

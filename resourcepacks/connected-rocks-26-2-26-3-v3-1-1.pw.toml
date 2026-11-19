@@ -1,0 +1,8 @@
+name = "Connected-Rocks 26.2-26.3 v3.1.1"
+filename = "Connected-Rocks 26.2-26.3 v3.1.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IE9kFeq9/versions/punSINUc/Connected-Rocks%2026.2-26.3%20v3.1.1.zip"
+hash-format = "sha256"
+hash = "bc823462aaf07c41edccc84bc4cb6a4afd928edcb4db3515603db1b22af9b114"

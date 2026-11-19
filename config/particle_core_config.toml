@@ -1,0 +1,14 @@
+# Don't change this! Version used to track needed updates.
+version = 1
+disableParticles = false
+byTypeReductions = {  }
+maxParticlesPerSheet = 16384
+particleRenderDistanceMultiplier = 0.5974906382841224
+asynchronousTicking = false
+cullingBlacklist = [  ]
+cullingBehavior = "BOUNDING_BOX"
+reduceAllChance = 0.0
+reduceDecreasedChance = 0.0
+turnOffPotionParticlesV2 = [
+    "NONE"
+]

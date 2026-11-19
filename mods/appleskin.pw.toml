@@ -1,0 +1,13 @@
+name = "appleskin"
+filename = "appleskin-fabric-mc26.3-3.0.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/PHjDtQay/appleskin-fabric-mc26.3-3.0.10.jar"
+hash-format = "sha256"
+hash = "cb05087c39f0d860611aa1fae7cf63560214d1b71378a7c903c18dc370b5c3ce"
+
+[update]
+[update.modrinth]
+mod-id = "EsAfCjCV"
+version = "PHjDtQay"

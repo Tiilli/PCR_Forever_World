@@ -1,0 +1,13 @@
+name = "Animatica Refabricated"
+filename = "animatica-0.7.0+beta.1+26.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xEyZuswh/versions/WCOXPbj9/animatica-0.7.0%2Bbeta.1%2B26.3.jar"
+hash-format = "sha512"
+hash = "fc575c9d638c7b376b5620a3c3abb5161141969550363885710cce149f0fadc9839882f9c4e9420f77e33ab597baba1ffd03d83d707564dbbef860702c7ddf1e"
+
+[update]
+[update.modrinth]
+mod-id = "xEyZuswh"
+version = "WCOXPbj9"

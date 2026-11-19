@@ -1,0 +1,8 @@
+name = "Better-Leaves-9.6"
+filename = "Better-Leaves-9.6.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uvpymuxq/versions/w4ReEpuG/Better-Leaves-9.6.zip"
+hash-format = "sha256"
+hash = "cbeeccd774f910ed270dbe9651d789a8f785d055499f846e466d86f9cae91e90"

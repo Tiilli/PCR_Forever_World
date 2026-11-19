@@ -1,0 +1,8 @@
+name = "Lowergrassv2"
+filename = "Lowergrassv2.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EYDx6PXJ/versions/MW1cVqBp/Lowergrassv2.zip"
+hash-format = "sha256"
+hash = "04df07209e6f004198935f45510303a795251e1178125f437e2159fb3478c3be"

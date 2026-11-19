@@ -1,0 +1,8 @@
+name = "Simple Grass Flowers v2.0.0"
+filename = "Simple Grass Flowers v2.0.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ti9KkMHm/versions/Cd4Xa7Sr/Simple%20Grass%20Flowers%20v2.0.0.zip"
+hash-format = "sha256"
+hash = "26c23daae1ec0c4e71fdc9bee449d3e088137088d21543804228863d0fa7b2c2"

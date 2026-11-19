@@ -1,0 +1,8 @@
+name = "mo-komodo"
+filename = "mo-komodo.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6PSZWF9x/versions/B50t6B9G/mo-komodo.zip"
+hash-format = "sha256"
+hash = "41ad571803725faa71c5269109c9bce37ed57b26b252016d4364456abad9cad1"

@@ -1,0 +1,41 @@
+#Types of animal spawns that are affected by the respawning mechanics, meaning their animals may be removed when they are far away from players.
+#Animals not covered by any enabled option are never removed on their own, but can still be made persistent through player interaction like breeding, leading or naming.
+#Only applies when the "remove_animals_when_far_away" game rule is enabled.
+[despawn_reasons]
+	#Animals that spawn naturally in the world, e.g. through world generation or regular mob spawning.
+	#Default Value: true
+	world_gen = true
+	#Animals spawned by structures, e.g. cats in witch huts or allays in woodland mansions.
+	#Default Value: false
+	scripted = false
+	#Animals spawned by mob spawners, including trial spawners.
+	#Default Value: false
+	spawner = false
+	#Animals created through breeding, hatched from eggs or released by a bucket.
+	#Default Value: false
+	husbandry = false
+	#Animals spawned directly by a player, e.g. via a spawn egg, a dispenser or the /summon command.
+	#Default Value: false
+	player_spawn = false
+
+#Player interactions that make an animal persistent so it is never removed by the respawning mechanics.
+#Unlike the spawn reason options disabling these can never lead to animals piling up, as they only ever mark a single animal as persistent.
+[persistence_actions]
+	#Animals attached to a lead by a player or a fence knot.
+	#Default Value: true
+	leashed = true
+	#Animals that have entered a vehicle like a boat or minecart.
+	#Default Value: true
+	vehicles = true
+	#Animals with an owner, like tamed wolves, cats or horses.
+	#Default Value: true
+	owned = true
+	#Animals that are in love after having been fed their breeding item.
+	#Default Value: true
+	breeding = true
+	#Animals directly after having been tamed.
+	#Default Value: true
+	tamed = true
+	#Animals a player has ridden.
+	#Default Value: true
+	ridden = true

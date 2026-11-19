@@ -1,0 +1,13 @@
+name = "PCR's Forever World"
+author = "Tilli"
+version = "1.3.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5e49230ec7643201ff8bf21e58a440f0b921f451e07a016f80d6d5365919d1c3"
+
+[versions]
+fabric = "0.20.1"
+minecraft = "26.3"

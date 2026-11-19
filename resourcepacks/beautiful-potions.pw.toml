@@ -1,0 +1,8 @@
+name = "Beautiful Potions - MC 26.1.2 - 2.0.0"
+filename = "Beautiful Potions - MC 26.1.2 - 2.0.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1W3D7TU2/versions/Vg8IWe24/Beautiful%20Potions%20-%20MC%2026.1.2%20-%202.0.0.zip"
+hash-format = "sha256"
+hash = "fdb322ca6a80f199c1b33d1bf4d2bc611e91ca4eda4cb5908c79303ff81f85b5"

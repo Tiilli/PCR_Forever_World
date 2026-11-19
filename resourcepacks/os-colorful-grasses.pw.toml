@@ -1,0 +1,8 @@
+name = "Os' Colorful Grasses (Mix)"
+filename = "Os' Colorful Grasses (Mix).zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/O2zhH8n8/versions/9KieAB5z/Os%27%20Colorful%20Grasses%20%28Mix%29.zip"
+hash-format = "sha256"
+hash = "42825893b30f42d716a28bcacc7e007afbbab821d06334ad0f010dcbe616ba04"
