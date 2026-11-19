@@ -61,7 +61,9 @@ Puis dans l'onglet Java, vérifiez que ces options sont cochées :
 
 ![alt text](./readme_images/prism_settings_java.png)
 
-Normalement, Java devrait automatiquement s'installer en lançant le modpack pour la première fois.
+Cliquez sur "Detect" et sélectionnez la version 25.0.1 dans la liste.
+
+Si elle n'apparait pas, allez dans l'onglet "Installations" puis "Download" et choisissez Java 25 de la source "Mojang". 
 
 Plus d'infos ici : https://prismlauncher.org/wiki/getting-started/installing-java/
 </details>
@@ -69,11 +71,9 @@ Plus d'infos ici : https://prismlauncher.org/wiki/getting-started/installing-jav
 ## Le modpack
 
 ### Téléchargement
-Téléchargez la dernière version du modpack ici : [Releases](https://codeberg.org/Tilli/PCR_Forever_World/releases)
+Téléchargez le template du modpack ici : [Releases](https://github.com/Tiilli/PCR_Forever_World/releases/download/Template/PCR.s.Forever.World.zip)
 
-![alt text](./readme_images/codeberg_dl.png)
-
-Téléchargez également les LODs de Distant Horizon ici : [LODs DH](https://drive.proton.me/urls/W5QDVPXA50#SFdH4ntzNjm1)
+Optionnel : téléchargez également les LODs de Distant Horizon ici : [LODs DH](https://drive.proton.me/urls/W5QDVPXA50#SFdH4ntzNjm1)
 
 ### Importer le modpack dans Prism
 Ouvrez Prism Launcher, puis cliquez sur "Add Instance"
@@ -90,34 +90,6 @@ Le modpack devrait être visible désormais dans l'accueil de Prism :
 
 ![alt text](./readme_images/prism_instance_visible.png)
 
-### Vérifier l'installation
-S**électionnez le modpack et faites "Edit"**
-
-![alt text](./readme_images/prism_instance_edit.png)
-
-**Vérifiez les versions du jeu et loader**
-
-![alt text](./readme_images/prism_edit_versions.png)
-
-**Vérifiez que vous avez bien les mods installés**
-
-![alt text](./readme_images/prism_edit_mods.png)
-
-**Vérifiez que vous avez bien les ressource packs installés**
-
-![alt text](./readme_images/prism_settings_rp.png)
-
-**Vérifiez que vous avez bien ces shaders là**
-
-![alt text](./readme_images/prism_edit_shaders.png)
-
-**Vérifiez les paramètres Java**
-
-![alt text](./readme_images/prism_edit_java.png)
-
-- Pour la mémoire, le maximum memory usage recommandé est **8192 MiB**, mais vous pouvez essayer d'allouer plus ou moins en fonction de votre PC
-- Pour les Java Arguments, si vous n'avez pas d'argument listé, copiez/collez cela : ```-XX:+UseZGC``` (important pour Distant Horizon)
-
 ### Ajouter manuellement les LODs de Distant Horizon
 Comme les LODs sont très lourds, ce n'est pas possible de les importer directement avec le reste du modpack. Cette étape n'est pas indispensable, mais fortement recommandée pour éviter d'avoir à télécharger les LODs depuis le serveur, ce qui peut être long.
 
@@ -125,7 +97,7 @@ Accédez au dossier d'installation du jeu avec le bouton "Folder".
 
 ![alt text](./readme_images/prism_folder_open.png)
 
-Allez dans le dossier "Minecraft", puis déplacez le .zip téléchargé plus haut "Distant_Horizons_server_data.zip" dedans.
+Allez dans le dossier "minecraft", puis déplacez le .zip téléchargé plus haut "Distant_Horizons_server_data.zip" dedans.
 
 Faite clic droit puis "extraire ici". Vous devriez avoir un dossier nommé "Distant_Horizons_server_data" comme cela :
 
@@ -137,33 +109,18 @@ Qui contient :
 
 S'il contient un dossier "Distant_Horizon_server_data", déplacez son contenu dedans et supprimez le dossier. S'il contient des dossier ...overworld et ...the_nether, déplacez les dans un dossier nommé "PCRForeverWorld" (le nom est important !).
 
-Si tout est bon, vous pouvez fermer la fenêtre et lancer l'instance avec le bouton "Launch"
+Si tout est bon, vous pouvez fermer la fenêtre et lancer l'instance avec le bouton "Launch".
 
 ![alt text](./readme_images/prism_instance_launch.png)
+
+Le reste des fichiers du jeu devraient se télécharger et s'installer tout seul dans la dernière version du modpack.
 
 # Paramétrage du jeu
 Le menu principal a été un peu modifié, voici un détail du layout :
 
 ![alt text](./readme_images/game_title_screen.png)
 
-## Paramétrage du serveur
-Pour éviter de leak l'adresse IP, il faut ajouter le serveur dans la liste manuellement.
-
-Cliquez sur "Multiplayer", puis "Add a Server".
-
-![alt text](./readme_images/game_add_server.png)
-
-Dans "Server Name", entrez précisément ```PCRForeverWorld``` (copiez/coller pour éviter les fautes de frappe). Le nom est important pour que Distant Horizon charge correctement.
-
-Dans "Server Address", entrez l'IP du serveur. Elle sera partagée sur le serveur (si vous faites cette étape sans que l'IP n'ait été partagée, entrez juste un espace pour le moment, vous pourrez modifier plus tard).
-
-Done. Désormais, lorsque vous cliquerez sur "Join Server" depuis le menu principal, cela rejoindra automatiquement ce serveur.
-
 ## Paramètres sonores
-Par défaut, les sons sont réglés de cette manière :
-
-![alt text](./readme_images/game_sounds.png)
-
 Libre à vous de les modifier comme vous le souhaitez. Je vous recommande cependant de laisser les sons "Ambient/Environment" assez haut vu qu'ils ont été complètement revus sur le modpack.
 
 ## Paramètres graphiques
@@ -180,7 +137,7 @@ Par défaut, j'ai mis à disposition quelques shaders ainsi que différentes con
 
 "Fancy" correspond aux shaders les plus lourds, mais aussi les plus jolis, "Fast" correspond aux shaders avec le moins d'impact sur les performances et "Balanced" est plutôt entre deux.
 
-Je recommanderais aussi les shaders avec des "Euphoria Patches", ils rajoutent tout un tas d'effets très jolis comme des lumières colorées ou des ciels étoilés de zinzin. Pour les meilleures performances, la version "Fast - Complementary Shaders" est celle que je recommande. Les shaders "Simply Upscaled" sont là pour celleux qui veulent un autre style.
+Pour les meilleures performances, la version "Fast - Complementary Shaders" est donc celle que je recommande.
 
 ### Resource packs
 J'ai créé plusieurs profils de resource packs en fonction de leur impact sur les performances qui sont accessibles via le bouton en haut à gauche :
@@ -192,10 +149,13 @@ Les profils sont les suivants :
 - Fancy Light
 - Fast Dark
 - Fast Light
+- Fancy Light Redstone
 
 Les profils Dark ont les éléments d'interface dans un thème sombre tandis que les profils Light sont dans un thème clair.
 
 Je recommanderais dans tous les cas les profils Fancy, qui rajoutent tout un tas de petits changements sympas comme des animations sur les mobs, mais si vraiment vos performances sont horribles, vous pourriez gagner quelques fps avec les profils Fast.
+
+Le profil Redstone est recommandé seulement si vous comptez jouer beaucoup avec la redstone.
 
 Vous pouvez bien sûr aussi modifier les packs comme vous l'entendez, c'est juste des recommandations.
 
@@ -239,7 +199,7 @@ Maintenant que vous avez le détails des paramètres dispo, voici différentes c
 
 ### Fancy
 - Video settings de base
-- Pack de shader "Fancy - Complementary Shaders + Euphoria Patches"
+- Pack de shader "Fancy - Complementary Reimagined.zip"
 - Profil de resource pack "Fancy Dark" ou "Fancy Light"
 - Distant Horizon
   - Radius "256 chunks"
@@ -251,7 +211,7 @@ Maintenant que vous avez le détails des paramètres dispo, voici différentes c
 
 ### Balanced
 - Video settings de base
-- Pack de shader "Balanced - Complementary Shader + Euphoria Patches" ou "Fast - Complementary Shader + Euphoria Patches" ou "Fancy - Simply Upscaled"
+- Pack de shader "Balanced - Complementary Reimagined.zip" ou "Fast - Complementary Reimagined.zip"
 - Profil de resource pack "Fancy Dark" ou "Fancy Light"
 - Distant Horizon
   - Radius "256 chunks"
@@ -265,7 +225,7 @@ Maintenant que vous avez le détails des paramètres dispo, voici différentes c
 - Video settings
   - Render distance "8 chunks"
   - Dynamic Lights "Off"
-- Pack de shader "Fast - Complementary Shaders ou "Fast - Simply Upscaled"
+- Pack de shader "Fast - Complementary Reimagined.zip"
 - Profil de resource pack "Fast Dark" ou "Fast Light"
 - Distant Horizon
   - Radius "192 chunks"
