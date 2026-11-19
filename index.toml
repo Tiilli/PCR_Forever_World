@@ -1641,6 +1641,10 @@ file = "fancymenu_data/last_world.fmdata"
 hash = "c1be8b05b4908663c684411c611c11d62b838bb9f9de7c9b3406f16ff8592d70"
 
 [[files]]
+file = "icon.png"
+hash = "41a00d56e757aebdaf8f363a04cdf327436589168ee733c6f6a0d70967bc78b7"
+
+[[files]]
 file = "mods/addadd.pw.toml"
 hash = "385b9a8cfb760aec112c0d71f45038fdc4bade79a1b9315862be862120fde439"
 metafile = true
