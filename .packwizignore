@@ -15,3 +15,6 @@ readme.md
 readme_images/
 .gitignore
 .gitattributes
+options.txt
+config/
+servers.dat
