@@ -1034,7 +1034,7 @@ hash = "9c97b793d3e4f340073aa4016e8fd96f1df2d64a15a034bcc338d60badc333b5"
 
 [[files]]
 file = "config/packed_packs/config.meta.json"
-hash = "5f2f84e2db28e1c3d7d36c2bb8fea85fefbd609344b1a9e24f878ebb8e7e8a67"
+hash = "5ea29c00eb7885bd04fe2fecaac57dcacdd9d6e5b32d2e0537e9de275214df46"
 
 [[files]]
 file = "config/packed_packs/preferences.properties"

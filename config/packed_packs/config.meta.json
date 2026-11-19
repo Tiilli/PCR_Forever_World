@@ -1,7 +1,8 @@
 {
   "resourcepacks": {
     "loadDefaultCondition": "NO_OPTIONS_OR_VERSION_FILE",
-    "aliases": {}
+    "aliases": {},
+    "defaultProfile": "Fancy Light"
   },
   "datapacks": {
     "aliases": {}
