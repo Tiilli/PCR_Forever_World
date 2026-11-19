@@ -2600,12 +2600,13 @@ file = "shaderpacks/Fast - Complementary Reimagined.zip.txt"
 hash = "6485141ab4a3ec715467da44f8430b933ecd18eba86b81a35d8e32f712f7b703"
 
 [[files]]
-file = "shaderpacks/balanced-complementary-reimagined.pw copy.toml"
-hash = "0d32bfe86e50ee8f5533cf53f1f1a3597f34df2ae2408b120f96bc4bbc723706"
-
-[[files]]
 file = "shaderpacks/balanced-complementary-reimagined.pw.toml"
 hash = "c2ae1db56601bb90bf0aa46330685a1e17fc04c5c0c492ba93aaf545342e3933"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "0d32bfe86e50ee8f5533cf53f1f1a3597f34df2ae2408b120f96bc4bbc723706"
 metafile = true
 
 [[files]]
