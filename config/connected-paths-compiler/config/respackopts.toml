@@ -1,4 +1,0 @@
-[respackopts]
-enabled = true
-version = 12
-capabilities = ["DirFilter"]
