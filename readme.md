@@ -90,24 +90,6 @@ Le modpack devrait être visible désormais dans l'accueil de Prism :
 
 ![alt text](./readme_images/prism_instance_visible.png)
 
-### Vérifier la commande de pré-lancement
-Si vous êtes sur Windows, vous n'avez rien à faire, la template est réglée par défaut pour les utilisateurs windows.
-
-Si vous êtes sur Linux en revanche, suivez les étapes en spoiler ci-dessous.
-<details>
-<summary>Spoiler</summary>
-Accédez aux paramètres du modpack avec le bouton "Modifier".
-
-![alt text](./readme_images/prism_edit_open.png)
-
-Allez dans l'onglet "Paramètres" puis "Commandes personnalisés".
-
-![alt text](./readme_images/prism_edit_settings_commands.png)
-
-Remplacer ```"%INST_JAVA%"``` par ```"$INST_JAVA"``` dans la commande de pré-lancement.
-
-</details>
-
 ### Ajouter manuellement les LODs de Distant Horizon
 Comme les LODs sont très lourds, ce n'est pas possible de les importer directement avec le reste du modpack. Cette étape n'est pas indispensable, mais fortement recommandée pour éviter d'avoir à télécharger les LODs depuis le serveur, ce qui peut être long.
 
