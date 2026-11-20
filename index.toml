@@ -591,7 +591,7 @@ metafile = true
 
 [[files]]
 file = "mods/requestboard.pw.toml"
-hash = "78e2bfc59ce987cb1f8de789b5ef519a34a6781ead146099d74b8db53710d99e"
+hash = "10bdc7f928f7c00d69ef1f00a34b9c168e35b584a26e651e8fea0d30763f8773"
 metafile = true
 
 [[files]]
