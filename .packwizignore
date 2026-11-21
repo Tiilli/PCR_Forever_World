@@ -16,5 +16,4 @@ readme_images/
 .gitignore
 .gitattributes
 options.txt
-config/
-servers.dat
+config_template/
